@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:0 type="video" channelId="-1" logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/10/foxsports.png", FOX SPORTS
+http://195.181.163.39:80/DEP_FOX_SPORTS_ARG/index.m3u8?token=9c60593dddfd5dcb8b2b31df7a1368ff
+#EXTINF:0 type="video" channelId="-1" logo="https://www.sportsmediawatch.com/wp-content/uploads/2012/10/foxsports.png", FOX SPORTS
+http://195.181.163.39:80/DEP_FOX_SPORTS_ARG/index.m3u8?token=9c60593dddfd5dcb8b2b31df7a1368ff
+#EXTINF:0 type="video" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2
+http://195.181.163.39:80/DEP_FOX_SPORTS_2_ARG/index.m3u8?token=d02719aa1866b6a13fd20268b6fb5f5b
+#EXTINF:0 type="video" channelId="-1" logo="https://clipground.com/images/bein-sports-logo-png-19.png", BEIN SPORTS
+http://195.181.163.39:80/DEP_BEIN_DEPORTES/index.m3u8?token=8ba82eb61126c016468798cff2918dea
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://45.179.140.242:8000/play/a0h3
